@@ -1,0 +1,400 @@
+{
+  "users": [
+    {
+      "nom": "Alice Dupont",
+      "login": "alice.dupont",
+      "email": "alice.dupont@duckstore.local",
+      "departement": "RH"
+    },
+    {
+      "nom": "Benoît Martin",
+      "login": "benoit.martin",
+      "email": "benoit.martin@duckstore.local",
+      "departement": "RH"
+    },
+    {
+      "nom": "Claire Lambert",
+      "login": "claire.lambert",
+      "email": "claire.lambert@duckstore.local",
+      "departement": "RH"
+    },
+    {
+      "nom": "David Rousseau",
+      "login": "david.rousseau",
+      "email": "david.rousseau@duckstore.local",
+      "departement": "RH"
+    },
+    {
+      "nom": "Emilie Fournier",
+      "login": "emilie.fournier",
+      "email": "emilie.fournier@duckstore.local",
+      "departement": "RH"
+    },
+    {
+      "nom": "François Girard",
+      "login": "francois.girard",
+      "email": "francois.girard@duckstore.local",
+      "departement": "Compta"
+    },
+    {
+      "nom": "Hélène Moreau",
+      "login": "helene.moreau",
+      "email": "helene.moreau@duckstore.local",
+      "departement": "Compta"
+    },
+    {
+      "nom": "Isabelle Caron",
+      "login": "isabelle.caron",
+      "email": "isabelle.caron@duckstore.local",
+      "departement": "Compta"
+    },
+    {
+      "nom": "Bastien Lefevre",
+      "login": "bastien.lefevre",
+      "email": "bastien.lefevre@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Karine Dubois",
+      "login": "karine.dubois",
+      "email": "karine.dubois@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Laurent Petit",
+      "login": "laurent.petit",
+      "email": "laurent.petit@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Mélanie Marchand",
+      "login": "melanie.marchand",
+      "email": "melanie.marchand@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Nicolas Simon",
+      "login": "nicolas.simon",
+      "email": "nicolas.simon@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Ophélie Bernard",
+      "login": "ophelie.bernard",
+      "email": "ophelie.bernard@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Patrice Noël",
+      "login": "patrice.noel",
+      "email": "patrice.noel@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Quentin Fabre",
+      "login": "quentin.fabre",
+      "email": "quentin.fabre@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Romain Charpentier",
+      "login": "romain.charpentier",
+      "email": "romain.charpentier@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Sophie Gauthier",
+      "login": "sophie.gauthier",
+      "email": "sophie.gauthier@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Thibault Olivier",
+      "login": "thibault.olivier",
+      "email": "thibault.olivier@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Vanessa Dupuis",
+      "login": "vanessa.dupuis",
+      "email": "vanessa.dupuis@duckstore.local",
+      "departement": "Commercial"
+    },
+    {
+      "nom": "Thomas Lambert",
+      "login": "thomas.lambert",
+      "email": "thomas.lambert@duckstore.local",
+      "departement": "IT"
+    },
+    {
+      "nom": "Clara Dubois",
+      "login": "clara.dubois",
+      "email": "clara.dubois@duckstore.local",
+      "departement": "IT"
+    },
+    {
+      "nom": "Adrien Bernard",
+      "login": "adrien.bernard",
+      "email": "adrien.bernard@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Amandine Leroy",
+      "login": "amandine.leroy",
+      "email": "amandine.leroy@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Anthony Roux",
+      "login": "anthony.roux",
+      "email": "anthony.roux@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Audrey Fontaine",
+      "login": "audrey.fontaine",
+      "email": "audrey.fontaine@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Bastien Leclerc",
+      "login": "bastien.leclerc",
+      "email": "bastien.leclerc@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Camille Perrin",
+      "login": "camille.perrin",
+      "email": "camille.perrin@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Charles David",
+      "login": "charles.david",
+      "email": "charles.david@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Chloé Morel",
+      "login": "chloe.morel",
+      "email": "chloe.morel@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Clément Dupuis",
+      "login": "clement.dupuis",
+      "email": "clement.dupuis@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Damien Michel",
+      "login": "damien.michel",
+      "email": "damien.michel@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Élodie Renault",
+      "login": "elodie.renault",
+      "email": "elodie.renault@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Fabien Lambert",
+      "login": "fabien.lambert",
+      "email": "fabien.lambert@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Florian Simon",
+      "login": "florian.simon",
+      "email": "florian.simon@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Gaëlle Martin",
+      "login": "gaelle.martin",
+      "email": "gaelle.martin@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Guillaume Petit",
+      "login": "guillaume.petit",
+      "email": "guillaume.petit@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Hugo Moreau",
+      "login": "hugo.moreau",
+      "email": "hugo.moreau@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Isabelle Roy",
+      "login": "isabelle.roy",
+      "email": "isabelle.roy@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Jade Fournier",
+      "login": "jade.fournier",
+      "email": "jade.fournier@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Julien Lefèvre",
+      "login": "julien.lefevre",
+      "email": "julien.lefevre@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Kevin Dubois",
+      "login": "kevin.dubois",
+      "email": "kevin.dubois@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Laura Gauthier",
+      "login": "laura.gauthier",
+      "email": "laura.gauthier@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Léa Petit",
+      "login": "lea.petit",
+      "email": "lea.petit@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Lucas Bernard",
+      "login": "lucas.bernard",
+      "email": "lucas.bernard@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Manon Lefevre",
+      "login": "manon.lefevre",
+      "email": "manon.lefevre@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Marie Dubois",
+      "login": "marie.dubois",
+      "email": "marie.dubois@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Martin Roux",
+      "login": "martin.roux",
+      "email": "martin.roux@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Maxime Morel",
+      "login": "maxime.morel",
+      "email": "maxime.morel@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Mélanie Leroy",
+      "login": "melanie.leroy",
+      "email": "melanie.leroy@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Nicolas Fontaine",
+      "login": "nicolas.fontaine",
+      "email": "nicolas.fontaine@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Olivier David",
+      "login": "olivier.david",
+      "email": "olivier.david@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Pauline Simon",
+      "login": "pauline.simon",
+      "email": "pauline.simon@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Pierre Dupuis",
+      "login": "pierre.dupuis",
+      "email": "pierre.dupuis@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Quentin Michel",
+      "login": "quentin.michel",
+      "email": "quentin.michel@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Raphaël Martin",
+      "login": "raphael.martin",
+      "email": "raphael.martin@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Rémi Petit",
+      "login": "remi.petit",
+      "email": "remi.petit@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Sarah Bernard",
+      "login": "sarah.bernard",
+      "email": "sarah.bernard@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Simon Lefevre",
+      "login": "simon.lefevre",
+      "email": "simon.lefevre@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Sophie Dubois",
+      "login": "sophie.dubois",
+      "email": "sophie.dubois@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Thomas Roux",
+      "login": "thomas.roux",
+      "email": "thomas.roux@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Valentin Moreau",
+      "login": "valentin.moreau",
+      "email": "valentin.moreau@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Victor Leroy",
+      "login": "victor.leroy",
+      "email": "victor.leroy@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Vincent Petit",
+      "login": "vincent.petit",
+      "email": "vincent.petit@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Yannick Fontaine",
+      "login": "yannick.fontaine",
+      "email": "yannick.fontaine@duckstore.local",
+      "departement": "Operations"
+    },
+    {
+      "nom": "Zoé Simon",
+      "login": "zoe.simon",
+      "email": "zoe.simon@duckstore.local",
+      "departement": "Operations"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "config": {
+    "domain": "duckstore",
+    "departements": {
+      "RH": [
+        "PC_RH_01",
+        "PC_RH_02",
+        "PC_RH_03",
+        "PC_RH_04",
+        "PC_RH_05"
+      ],
+      "Compta": [
+        "PC_Compta_01",
+        "PC_Compta_02",
+        "PC_Compta_03"
+      ],
+      "Commercial": [
+        "PC_Commercial_01",
+        "PC_Commercial_02",
+        "PC_Commercial_03",
+        "PC_Commercial_04",
+        "PC_Commercial_05",
+        "PC_Commercial_06",
+        "PC_Commercial_07",
+        "PC_Commercial_08",
+        "PC_Commercial_09",
+        "PC_Commercial_10",
+        "PC_Commercial_11",
+        "PC_Commercial_12"
+      ],
+      "Operations": [
+        "PC_Operations_01",
+        "PC_Operations_02",
+        "PC_Operations_03",
+        "PC_Operations_04",
+        "PC_Operations_05",
+        "PC_Operations_06",
+        "PC_Operations_07",
+        "PC_Operations_08",
+        "PC_Operations_09",
+        "PC_Operations_10",
+        "PC_Operations_11",
+        "PC_Operations_12",
+        "PC_Operations_13",
+        "PC_Operations_14",
+        "PC_Operations_15",
+        "PC_Operations_16",
+        "PC_Operations_17",
+        "PC_Operations_18",
+        "PC_Operations_19",
+        "PC_Operations_20",
+        "PC_Operations_21",
+        "PC_Operations_22",
+        "PC_Operations_23",
+        "PC_Operations_24",
+        "PC_Operations_25",
+        "PC_Operations_26",
+        "PC_Operations_27",
+        "PC_Operations_28",
+        "PC_Operations_29",
+        "PC_Operations_30",
+        "PC_Operations_31",
+        "PC_Operations_32",
+        "PC_Operations_33",
+        "PC_Operations_34",
+        "PC_Operations_35",
+        "PC_Operations_36",
+        "PC_Operations_37",
+        "PC_Operations_38",
+        "PC_Operations_39",
+        "PC_Operations_40",
+        "PC_Operations_41",
+        "PC_Operations_42",
+        "PC_Operations_43",
+        "PC_Operations_44",
+        "PC_Operations_45",
+        "PC_Operations_46",
+        "PC_Operations_47",
+        "PC_Operations_48",
+        "PC_Operations_49",
+        "PC_Operations_50",
+        "PC_Operations_51",
+        "PC_Operations_52"
+      ],
+      "IT": [
+        "PC_IT_01",
+        "PC_IT_02"
+      ]
+    },
+    "gpo_globales": [
+      "GPO-Domain-Security",
+      "GPO-Domain-Client-Hardening",
+      "GPO-Domain-Background"
+    ],
+    "logiciels_msi": [
+      "Chrome.msi",
+      "LibreOffice.msi",
+      "Antivirus.msi"
+    ]
+  }
+}
+
